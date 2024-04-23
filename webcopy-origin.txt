@@ -1,0 +1,116 @@
+Uri: https://cdn2.iconfinder.com/data/icons/basic-ui-interface-v-2/32/hide-512.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\data\icons\basic-ui-interface-v-2\32\4000123.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&family=Roboto:wght@400;500;700;900&display=swap
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\s\roboto\v30\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://konseptart.netlify.app/
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://konseptart.netlify.app/css/style.css
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\css\style.css
+Content Type: text/css
+
+Uri: https://konseptart.netlify.app/images/flock1.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\images\flock1.png
+Content Type: image/png
+
+Uri: https://konseptart.netlify.app/images/flock2.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\images\flock2.png
+Content Type: image/png
+
+Uri: https://konseptart.netlify.app/images/fon1.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\images\fon1.png
+Content Type: image/png
+
+Uri: https://konseptart.netlify.app/images/fon2.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\images\fon2.png
+Content Type: image/png
+
+Uri: https://konseptart.netlify.app/images/frame1.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\images\frame1.png
+Content Type: image/png
+
+Uri: https://konseptart.netlify.app/images/frame2.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\images\frame2.png
+Content Type: image/png
+
+Uri: https://konseptart.netlify.app/images/frame3.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\images\frame3.png
+Content Type: image/png
+
+Uri: https://konseptart.netlify.app/images/frame4.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\images\frame4.png
+Content Type: image/png
+
+Uri: https://konseptart.netlify.app/images/mc.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\images\mc.png
+Content Type: image/png
+
+Uri: https://konseptart.netlify.app/images/mir.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\images\mir.png
+Content Type: image/png
+
+Uri: https://konseptart.netlify.app/images/pci.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\images\pci.png
+Content Type: image/png
+
+Uri: https://konseptart.netlify.app/images/secure.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\images\secure.png
+Content Type: image/png
+
+Uri: https://konseptart.netlify.app/images/TickSquare.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\images\TickSquare.png
+Content Type: image/png
+
+Uri: https://konseptart.netlify.app/images/visa.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\images\visa.png
+Content Type: image/png
+
+Uri: https://konseptart.netlify.app/images/white-robo.png
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\images\white-robo.png
+Content Type: image/png
+
+Uri: https://konseptart.netlify.app/js/script.js
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\js\script.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Users\dmitr\OneDrive\Рабочий стол\konseptart.netlify.app\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
